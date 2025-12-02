@@ -1,0 +1,4 @@
+Python is easy to learn.
+It is used in web development.
+It is also used in data science.
+Many companies use Python.
